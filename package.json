@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.1",
+    "http-errors": "^2.0.0",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.20"
+  },
+  "name": "api_assignment",
+  "version": "1.0.0",
+  "description": "API Assignment for Mr Sami",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Admanii/api_assignment.git"
+  },
+  "author": "Ahmed Riaz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Admanii/api_assignment/issues"
+  },
+  "homepage": "https://github.com/Admanii/api_assignment#readme"
+}
